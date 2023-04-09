@@ -3,11 +3,11 @@
   <title>安苒杂货铺</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://arzhp.cn/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://arzhp.cn/"/>
   <updated>2023-04-09T10:11:17.165Z</updated>
-  <id>http://example.com/</id>
+  <id>https://arzhp.cn/</id>
   
   <author>
     <name>安苒</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/04/09/hello-world/"/>
-    <id>http://example.com/2023/04/09/hello-world/</id>
+    <link href="https://arzhp.cn/2023/04/09/hello-world/"/>
+    <id>https://arzhp.cn/2023/04/09/hello-world/</id>
     <published>2023-04-09T10:11:17.164Z</published>
     <updated>2023-04-09T10:11:17.165Z</updated>
     
